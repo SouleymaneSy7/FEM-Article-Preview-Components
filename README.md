@@ -41,8 +41,8 @@ This is the Screenshot of my work!
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [solution URL here](https://www.frontendmentor.io/solutions/article-preview-componentsresponsive-html-sass-vite-aMs6LJ80nb)
+- Live Site URL: [live site URL here](https://fem-article-preview-components.vercel.app)
 
 ## My process
 
